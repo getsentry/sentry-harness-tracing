@@ -2,9 +2,6 @@
 
 [![npm version](https://img.shields.io/npm/v/@sentry/pi.svg)](https://www.npmjs.com/package/@sentry/pi)
 
-> [!WARNING]
-> Work in progress.
-
 See what your [Pi](https://pi.dev) sessions cost and where they go wrong: token usage and cost per prompt, slow or failed model requests, and broken tool calls, in Sentry's agent monitoring.
 
 ## Install

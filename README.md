@@ -8,14 +8,13 @@ _Bad software is everywhere, and we're tired of it. Sentry is on a mission to he
 
 # Sentry Coding Agents
 
-> [!WARNING]
-> Work in progress.
-
 See what your coding agent sessions cost and where they go wrong: token usage and cost per prompt, slow or failed model requests, and broken tool calls, in Sentry's agent monitoring.
 
 ## Supported agents
 
 - [Pi](https://pi.dev): [`@sentry/pi`](packages/pi/README.md)
+
+Using Claude Code or Codex? See [Tattletale](https://github.com/getsentry/tattletale).
 
 ## Resources
 
